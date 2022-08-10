@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6094fb5d4f4ee237947d754f"
+  },
+  "customer": "Cassy",
+  "initial_balance": "5000",
+  "transport_fare": "420",
+  "new_balance": "4580",
+  "time": "2021-05-07 10:33:33",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095069de5a17145c46f0673"
+  },
+  "customer": "Mike",
+  "initial_balance": "500",
+  "transport_fare": "420",
+  "new_balance": "80",
+  "time": "2021-05-07 11:21:33",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609506b5e5a17145c46f0675"
+  },
+  "customer": "Cindy",
+  "initial_balance": "2000",
+  "transport_fare": "420",
+  "new_balance": "1580",
+  "time": "2021-05-07 11:21:57",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609506c2e5a17145c46f0676"
+  },
+  "customer": "Nancy",
+  "initial_balance": "10000",
+  "transport_fare": "500",
+  "new_balance": "9500",
+  "time": "2021-05-07 11:22:10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609506dee5a17145c46f0677"
+  },
+  "customer": "Billy",
+  "initial_balance": "15000",
+  "transport_fare": "350",
+  "new_balance": "14650",
+  "time": "2021-05-07 11:22:38",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609506f6e5a17145c46f0678"
+  },
+  "customer": "Tessy",
+  "initial_balance": "4500",
+  "transport_fare": "420",
+  "new_balance": "4080",
+  "time": "2021-05-07 11:23:2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609508c7eb57592d18991fca"
+  },
+  "customer": "Yves",
+  "initial_balance": "420",
+  "transport_fare": "420",
+  "new_balance": "0",
+  "time": "2021-05-07 11:30:47",
+  "__v": 0
+}]
